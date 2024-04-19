@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80436bb7-3fd1-44ee-bb8b-39ba7baf9cd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regresion.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/datos_properati_limpios_model.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/java.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/java.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,57 +105,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build OOP_DesignPatterns_Java.executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [assemble].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [buildDependents].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [buildEnvironment].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [buildNeeded].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [build].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [check].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [classes].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [clean].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [compileJava].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [compileTestJava].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [components].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [dependentComponents].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [formatDiff].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [googleJavaFormat].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [groovydoc].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [help].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [init].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [jar].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [javaToolchains].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [javadoc].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [model].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [prepareKotlinBuildScriptModel].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [projects].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [properties].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessApply].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessCheck].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessDiagnose].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessJavaApply].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessJavaCheck].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessJavaDiagnose].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [spotlessJava].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [tasks].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [testClasses].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [test].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [verifyGoogleJavaFormat].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java [wrapper].executor": "Run",
-    "Gradle.OOP_DesignPatterns_Java:src [model].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/uribe/Documents/Code/Repos/OOP_DesignPatterns_Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build OOP_DesignPatterns_Java.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [buildDependents].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [buildEnvironment].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [buildNeeded].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [check].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [classes].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [compileJava].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [compileTestJava].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [components].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [dependentComponents].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [formatDiff].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [googleJavaFormat].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [groovydoc].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [help].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [init].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [javaToolchains].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [javadoc].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [model].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [prepareKotlinBuildScriptModel].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [projects].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [properties].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessApply].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessCheck].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessDiagnose].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessJavaApply].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessJavaCheck].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessJavaDiagnose].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [spotlessJava].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [tasks].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [testClasses].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [verifyGoogleJavaFormat].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java [wrapper].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OOP_DesignPatterns_Java:src [model].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/uribe/Documents/Code/Repos/OOP_DesignPatterns_Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />

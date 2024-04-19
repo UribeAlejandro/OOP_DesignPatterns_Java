@@ -5,7 +5,7 @@ jobs:
       steps:
         - name: Checkout
           uses: actions/checkout@v4
-        - name: Set up JDK 8
+        - name: Set up JDK
           uses: actions/setup-java@v4
           with:
             distribution: 'zulu'
@@ -20,4 +20,4 @@ jobs:
         - name: Assess code formatting
           run: gradle spotlessCheck
         - name: Test
-          run: gradlew test
+          run: gradle test

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80436bb7-3fd1-44ee-bb8b-39ba7baf9cd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regresion.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/datos_properati_limpios_model.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/src">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOP_Design_Patterns_Java" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fI2RFWBgxu1E6bDX96dl2w0muB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build OOP_DesignPatterns_Java.executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [assemble].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [buildDependents].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [buildEnvironment].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [buildNeeded].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [build].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [check].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [classes].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [clean].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [compileJava].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [compileTestJava].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [components].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [dependentComponents].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [formatDiff].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [googleJavaFormat].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [groovydoc].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [help].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [init].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [jar].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [javaToolchains].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [javadoc].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [model].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [prepareKotlinBuildScriptModel].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [projects].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [properties].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessApply].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessCheck].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessDiagnose].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessJavaApply].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessJavaCheck].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessJavaDiagnose].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [spotlessJava].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [tasks].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [testClasses].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [test].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [verifyGoogleJavaFormat].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java [wrapper].executor": "Run",
+    "Gradle.OOP_DesignPatterns_Java:src [model].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/uribe/Documents/Code/Repos/OOP_DesignPatterns_Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="design.patterns.behavioral.observer.publisher" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.OOP_DesignPatterns_Java [spotlessApply]">
+    <configuration name="OOP_DesignPatterns_Java [spotlessApply]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="spotlessApply" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP_DesignPatterns_Java [spotlessCheck]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="spotlessCheck" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP_DesignPatterns_Java [spotlessDiagnose]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="spotlessDiagnose" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP_DesignPatterns_Java [spotlessJavaCheck]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="spotlessJavaCheck" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP_DesignPatterns_Java [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.OOP_DesignPatterns_Java [spotlessApply]" />
+        <item itemvalue="Gradle.OOP_DesignPatterns_Java [spotlessCheck]" />
+        <item itemvalue="Gradle.OOP_DesignPatterns_Java [spotlessDiagnose]" />
+        <item itemvalue="Gradle.OOP_DesignPatterns_Java [spotlessJavaCheck]" />
+        <item itemvalue="Gradle.OOP_DesignPatterns_Java [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

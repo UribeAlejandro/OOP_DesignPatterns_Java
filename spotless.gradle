@@ -1,0 +1,9 @@
+allprojects {
+  afterEvaluate {
+    def spotless = tasks.findByName('spotlessApply')
+    if (spotless) {
+      tasks.withType(JavaCompile) {
+        finalizedBy(spotless)
+      }
+    }
+  }
